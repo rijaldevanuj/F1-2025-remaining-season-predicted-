@@ -1,11 +1,6 @@
 # F1-2025-remaining-season-predicted-
 This machine learning model was created during the Formula 1 summer break—after the Hungarian Grand Prix and before the Dutch Grand Prix. It predicts:  Race winners and all point scorers for the remaining races of the 2025 season Final drivers’ and constructors’ championship standings The World Drivers’ Champion and Constructors’ Champion 
 
-# F1 2025 Remaining Season Prediction
-
-This project uses FastF1 and machine learning to predict the outcome of the 2025 Formula 1 season, including race winners, all point scorers, and final championship standings.  
-Predictions are based on results up to the Hungarian GP (Race 14) and reflect the real grid and points situation at the summer break.
-
 ## Features
 
 - Predicts winners and all point scorers for each remaining race
