@@ -664,6 +664,33 @@ if __name__ == "__main__":
     # Run the full prediction
     results = predictor.run_full_prediction()
     
+    # Save race predictions to CSV
+    if results:
+        # Save final driver standings
+        driver_standings_df = pd.DataFrame(results['final_driver_standings'], columns=['Driver', 'Points'])
+        driver_standings_df.to_csv('final_driver_standings.csv', index=False)
+        
+        # Save final constructor standings
+        constructor_standings_df = pd.DataFrame(results['final_constructor_standings'], columns=['Constructor', 'Points'])
+        constructor_standings_df.to_csv('final_constructor_standings.csv', index=False)
+        
+        # Save race-by-race predictions
+        all_race_predictions = []
+        for race, preds in results['race_predictions'].items():
+            for pred in preds:
+                row = {
+                    'Race': race,
+                    'Driver': pred['driver'],
+                    'Team': pred['team'],
+                    'Predicted_Position': pred['predicted_position'],
+                    'Predicted_Points': pred['predicted_points'],
+                    'Form_Multiplier': pred['form_multiplier'],
+                    'Track_Multiplier': pred['track_multiplier']
+                }
+                all_race_predictions.append(row)
+        race_predictions_df = pd.DataFrame(all_race_predictions)
+        race_predictions_df.to_csv('race_predictions.csv', index=False)
+    
     # Additional analysis functions
     def plot_championship_battle(driver_standings):
         """Plot championship battle visualization"""

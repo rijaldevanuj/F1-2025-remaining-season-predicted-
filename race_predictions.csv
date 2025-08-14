@@ -1,0 +1,229 @@
+Race,Driver,Team,Predicted_Position,Predicted_Points,Form_Multiplier,Track_Multiplier
+Race_15_Netherlands,Oscar Piastri,McLaren,1,25,1.22,1.1
+Race_15_Netherlands,Lando Norris,McLaren,2,18,1.2,1.1
+Race_15_Netherlands,Max Verstappen,Red Bull,3,15,1.0,1.4
+Race_15_Netherlands,George Russell,Mercedes,4,12,1.05,1.0
+Race_15_Netherlands,Charles Leclerc,Ferrari,5,10,0.95,1.0
+Race_15_Netherlands,Lewis Hamilton,Ferrari,6,8,0.8,1.0
+Race_15_Netherlands,Kimi Antonelli,Mercedes,7,6,0.9,1.0
+Race_15_Netherlands,Alexander Albon,Williams,8,4,0.85,1.0
+Race_15_Netherlands,Nico Hulkenberg,Audi,9,2,0.78,1.0
+Race_15_Netherlands,Esteban Ocon,Haas,10,1,0.75,1.0
+Race_15_Netherlands,Lance Stroll,Aston Martin,11,0,0.74,1.0
+Race_15_Netherlands,Fernando Alonso,Aston Martin,12,0,0.74,1.0
+Race_15_Netherlands,Isack Hadjar,RB,13,0,0.72,1.0
+Race_15_Netherlands,Pierre Gasly,Alpine,14,0,0.7,1.0
+Race_15_Netherlands,Liam Lawson,RB,15,0,0.7,1.0
+Race_15_Netherlands,Carlos Sainz,Williams,16,0,0.65,1.0
+Race_15_Netherlands,Gabriel Bortoleto,Kick Sauber,17,0,0.68,1.0
+Race_15_Netherlands,Yuki Tsunoda,RedBull,18,0,0.6,1.0
+Race_15_Netherlands,Oliver Bearman,Haas,19,0,0.58,1.0
+Race_15_Netherlands,Franco Colapinto,Alpine,20,0,0.5,1.0
+Race_15_Netherlands,Jack Doohan,Alpine,21,0,0.5,1.0
+
+
+Race_16_Italy,Oscar Piastri,McLaren,1,25,1.22,1.2
+Race_16_Italy,Lando Norris,McLaren,2,18,1.2,1.2
+Race_16_Italy,Max Verstappen,Red Bull,3,15,1.0,1.1
+Race_16_Italy,George Russell,Mercedes,4,12,1.05,1.0
+Race_16_Italy,Charles Leclerc,Ferrari,5,10,0.95,1.15
+Race_16_Italy,Lewis Hamilton,Ferrari,6,8,0.8,1.15
+Race_16_Italy,Kimi Antonelli,Mercedes,7,6,0.9,1.0
+Race_16_Italy,Alexander Albon,Williams,8,4,0.85,1.0
+Race_16_Italy,Nico Hulkenberg,Audi,9,2,0.78,1.0
+Race_16_Italy,Lance Stroll,Aston Martin,10,1,0.74,1.0
+Race_16_Italy,Esteban Ocon,Haas,11,0,0.75,1.0
+Race_16_Italy,Fernando Alonso,Aston Martin,12,0,0.74,1.0
+Race_16_Italy,Isack Hadjar,RB,13,0,0.72,1.0
+Race_16_Italy,Liam Lawson,RB,14,0,0.7,1.0
+Race_16_Italy,Pierre Gasly,Alpine,15,0,0.7,1.0
+Race_16_Italy,Carlos Sainz,Williams,16,0,0.65,1.0
+Race_16_Italy,Gabriel Bortoleto,Kick Sauber,17,0,0.68,1.0
+Race_16_Italy,Yuki Tsunoda,RedBull,18,0,0.6,1.0
+Race_16_Italy,Oliver Bearman,Haas,19,0,0.58,1.0
+Race_16_Italy,Franco Colapinto,Alpine,20,0,0.5,1.0
+Race_16_Italy,Jack Doohan,Alpine,21,0,0.5,1.0
+
+
+Race_17_Azerbaijan,Oscar Piastri,McLaren,1,25,1.22,1.15
+Race_17_Azerbaijan,Lando Norris,McLaren,2,18,1.2,1.15
+Race_17_Azerbaijan,George Russell,Mercedes,3,15,1.05,1.1
+Race_17_Azerbaijan,Max Verstappen,Red Bull,4,12,1.0,1.0
+Race_17_Azerbaijan,Charles Leclerc,Ferrari,5,10,0.95,1.0
+Race_17_Azerbaijan,Lewis Hamilton,Ferrari,6,8,0.8,1.0
+Race_17_Azerbaijan,Kimi Antonelli,Mercedes,7,6,0.9,1.0
+Race_17_Azerbaijan,Alexander Albon,Williams,8,4,0.85,1.0
+Race_17_Azerbaijan,Nico Hulkenberg,Audi,9,2,0.78,1.0
+Race_17_Azerbaijan,Esteban Ocon,Haas,10,1,0.75,1.0
+Race_17_Azerbaijan,Fernando Alonso,Aston Martin,11,0,0.74,1.0
+Race_17_Azerbaijan,Lance Stroll,Aston Martin,12,0,0.74,1.0
+Race_17_Azerbaijan,Isack Hadjar,RB,13,0,0.72,1.0
+Race_17_Azerbaijan,Liam Lawson,RB,14,0,0.7,1.0
+Race_17_Azerbaijan,Pierre Gasly,Alpine,15,0,0.7,1.0
+Race_17_Azerbaijan,Carlos Sainz,Williams,16,0,0.65,1.0
+Race_17_Azerbaijan,Gabriel Bortoleto,Kick Sauber,17,0,0.68,1.0
+Race_17_Azerbaijan,Yuki Tsunoda,RedBull,18,0,0.6,1.0
+Race_17_Azerbaijan,Oliver Bearman,Haas,19,0,0.58,1.0
+Race_17_Azerbaijan,Franco Colapinto,Alpine,20,0,0.5,1.0
+Race_17_Azerbaijan,Jack Doohan,Alpine,21,0,0.5,1.0
+
+
+Race_18_Singapore,Oscar Piastri,McLaren,1,25,1.22,1.25
+Race_18_Singapore,Lando Norris,McLaren,2,18,1.2,1.25
+Race_18_Singapore,George Russell,Mercedes,3,15,1.05,1.1
+Race_18_Singapore,Max Verstappen,Red Bull,4,12,1.0,0.9
+Race_18_Singapore,Charles Leclerc,Ferrari,5,10,0.95,1.0
+Race_18_Singapore,Lewis Hamilton,Ferrari,6,8,0.8,1.0
+Race_18_Singapore,Kimi Antonelli,Mercedes,7,6,0.9,1.0
+Race_18_Singapore,Alexander Albon,Williams,8,4,0.85,1.0
+Race_18_Singapore,Nico Hulkenberg,Audi,9,2,0.78,1.0
+Race_18_Singapore,Esteban Ocon,Haas,10,1,0.75,1.0
+Race_18_Singapore,Lance Stroll,Aston Martin,11,0,0.74,1.0
+Race_18_Singapore,Fernando Alonso,Aston Martin,12,0,0.74,1.0
+Race_18_Singapore,Isack Hadjar,RB,13,0,0.72,1.0
+Race_18_Singapore,Pierre Gasly,Alpine,14,0,0.7,1.0
+Race_18_Singapore,Liam Lawson,RB,15,0,0.7,1.0
+Race_18_Singapore,Carlos Sainz,Williams,16,0,0.65,1.0
+Race_18_Singapore,Gabriel Bortoleto,Kick Sauber,17,0,0.68,1.0
+Race_18_Singapore,Yuki Tsunoda,RedBull,18,0,0.6,1.0
+Race_18_Singapore,Oliver Bearman,Haas,19,0,0.58,1.0
+Race_18_Singapore,Franco Colapinto,Alpine,20,0,0.5,1.0
+Race_18_Singapore,Jack Doohan,Alpine,21,0,0.5,1.0
+
+
+Race_19_United States,Lando Norris,McLaren,1,25,1.2,1.12
+Race_19_United States,Oscar Piastri,McLaren,2,18,1.22,1.12
+Race_19_United States,Max Verstappen,Red Bull,3,15,1.0,1.15
+Race_19_United States,George Russell,Mercedes,4,12,1.05,1.05
+Race_19_United States,Charles Leclerc,Ferrari,5,10,0.95,1.0
+Race_19_United States,Lewis Hamilton,Ferrari,6,8,0.8,1.0
+Race_19_United States,Kimi Antonelli,Mercedes,7,6,0.9,1.0
+Race_19_United States,Alexander Albon,Williams,8,4,0.85,1.0
+Race_19_United States,Nico Hulkenberg,Audi,9,2,0.78,1.0
+Race_19_United States,Esteban Ocon,Haas,10,1,0.75,1.0
+Race_19_United States,Fernando Alonso,Aston Martin,11,0,0.74,1.0
+Race_19_United States,Lance Stroll,Aston Martin,12,0,0.74,1.0
+Race_19_United States,Isack Hadjar,RB,13,0,0.72,1.0
+Race_19_United States,Liam Lawson,RB,14,0,0.7,1.0
+Race_19_United States,Pierre Gasly,Alpine,15,0,0.7,1.0
+Race_19_United States,Carlos Sainz,Williams,16,0,0.65,1.0
+Race_19_United States,Gabriel Bortoleto,Kick Sauber,17,0,0.68,1.0
+Race_19_United States,Yuki Tsunoda,RedBull,18,0,0.6,1.0
+Race_19_United States,Oliver Bearman,Haas,19,0,0.58,1.0
+Race_19_United States,Franco Colapinto,Alpine,20,0,0.5,1.0
+Race_19_United States,Jack Doohan,Alpine,21,0,0.5,1.0
+
+
+Race_20_Mexico,Lando Norris,McLaren,1,25,1.2,1.08
+Race_20_Mexico,Oscar Piastri,McLaren,2,18,1.22,1.08
+Race_20_Mexico,Max Verstappen,Red Bull,3,15,1.0,1.12
+Race_20_Mexico,George Russell,Mercedes,4,12,1.05,1.0
+Race_20_Mexico,Charles Leclerc,Ferrari,5,10,0.95,0.95
+Race_20_Mexico,Lewis Hamilton,Ferrari,6,8,0.8,0.95
+Race_20_Mexico,Kimi Antonelli,Mercedes,7,6,0.9,1.0
+Race_20_Mexico,Alexander Albon,Williams,8,4,0.85,1.0
+Race_20_Mexico,Nico Hulkenberg,Audi,9,2,0.78,1.0
+Race_20_Mexico,Esteban Ocon,Haas,10,1,0.75,1.0
+Race_20_Mexico,Lance Stroll,Aston Martin,11,0,0.74,1.0
+Race_20_Mexico,Fernando Alonso,Aston Martin,12,0,0.74,1.0
+Race_20_Mexico,Isack Hadjar,RB,13,0,0.72,1.0
+Race_20_Mexico,Pierre Gasly,Alpine,14,0,0.7,1.0
+Race_20_Mexico,Liam Lawson,RB,15,0,0.7,1.0
+Race_20_Mexico,Carlos Sainz,Williams,16,0,0.65,1.0
+Race_20_Mexico,Gabriel Bortoleto,Kick Sauber,17,0,0.68,1.0
+Race_20_Mexico,Yuki Tsunoda,RedBull,18,0,0.6,1.0
+Race_20_Mexico,Oliver Bearman,Haas,19,0,0.58,1.0
+Race_20_Mexico,Franco Colapinto,Alpine,20,0,0.5,1.0
+Race_20_Mexico,Jack Doohan,Alpine,21,0,0.5,1.0
+
+
+Race_21_Brazil,Lando Norris,McLaren,1,25,1.2,1.1
+Race_21_Brazil,Oscar Piastri,McLaren,2,18,1.22,1.1
+Race_21_Brazil,Max Verstappen,Red Bull,3,15,1.0,1.08
+Race_21_Brazil,George Russell,Mercedes,4,12,1.05,1.0
+Race_21_Brazil,Charles Leclerc,Ferrari,5,10,0.95,1.0
+Race_21_Brazil,Lewis Hamilton,Ferrari,6,8,0.8,1.05
+Race_21_Brazil,Kimi Antonelli,Mercedes,7,6,0.9,1.0
+Race_21_Brazil,Alexander Albon,Williams,8,4,0.85,1.0
+Race_21_Brazil,Nico Hulkenberg,Audi,9,2,0.78,1.0
+Race_21_Brazil,Fernando Alonso,Aston Martin,10,1,0.74,1.0
+Race_21_Brazil,Esteban Ocon,Haas,11,0,0.75,1.0
+Race_21_Brazil,Lance Stroll,Aston Martin,12,0,0.74,1.0
+Race_21_Brazil,Isack Hadjar,RB,13,0,0.72,1.0
+Race_21_Brazil,Liam Lawson,RB,14,0,0.7,1.0
+Race_21_Brazil,Pierre Gasly,Alpine,15,0,0.7,1.0
+Race_21_Brazil,Carlos Sainz,Williams,16,0,0.65,1.0
+Race_21_Brazil,Gabriel Bortoleto,Kick Sauber,17,0,0.68,1.0
+Race_21_Brazil,Yuki Tsunoda,RedBull,18,0,0.6,1.0
+Race_21_Brazil,Oliver Bearman,Haas,19,0,0.58,1.0
+Race_21_Brazil,Franco Colapinto,Alpine,20,0,0.5,1.0
+Race_21_Brazil,Jack Doohan,Alpine,21,0,0.5,1.0
+
+
+Race_22_Las Vegas,Oscar Piastri,McLaren,1,25,1.22,1.15
+Race_22_Las Vegas,Lando Norris,McLaren,2,18,1.2,1.15
+Race_22_Las Vegas,George Russell,Mercedes,3,15,1.05,1.08
+Race_22_Las Vegas,Max Verstappen,Red Bull,4,12,1.0,1.0
+Race_22_Las Vegas,Charles Leclerc,Ferrari,5,10,0.95,1.05
+Race_22_Las Vegas,Lewis Hamilton,Ferrari,6,8,0.8,1.0
+Race_22_Las Vegas,Kimi Antonelli,Mercedes,7,6,0.9,1.08
+Race_22_Las Vegas,Alexander Albon,Williams,8,4,0.85,1.0
+Race_22_Las Vegas,Nico Hulkenberg,Audi,9,2,0.78,1.0
+Race_22_Las Vegas,Fernando Alonso,Aston Martin,10,1,0.74,1.0
+Race_22_Las Vegas,Esteban Ocon,Haas,11,0,0.75,1.0
+Race_22_Las Vegas,Lance Stroll,Aston Martin,12,0,0.74,1.0
+Race_22_Las Vegas,Isack Hadjar,RB,13,0,0.72,1.0
+Race_22_Las Vegas,Pierre Gasly,Alpine,14,0,0.7,1.0
+Race_22_Las Vegas,Liam Lawson,RB,15,0,0.7,1.0
+Race_22_Las Vegas,Carlos Sainz,Williams,16,0,0.65,1.0
+Race_22_Las Vegas,Gabriel Bortoleto,Kick Sauber,17,0,0.68,1.0
+Race_22_Las Vegas,Yuki Tsunoda,RedBull,18,0,0.6,1.0
+Race_22_Las Vegas,Oliver Bearman,Haas,19,0,0.58,1.0
+Race_22_Las Vegas,Franco Colapinto,Alpine,20,0,0.5,1.0
+Race_22_Las Vegas,Jack Doohan,Alpine,21,0,0.5,1.0
+
+
+Race_23_Qatar,Oscar Piastri,McLaren,1,25,1.22,1.1
+Race_23_Qatar,Lando Norris,McLaren,2,18,1.2,1.08
+Race_23_Qatar,Max Verstappen,Red Bull,3,15,1.0,1.05
+Race_23_Qatar,George Russell,Mercedes,4,12,1.05,1.0
+Race_23_Qatar,Charles Leclerc,Ferrari,5,10,0.95,1.0
+Race_23_Qatar,Lewis Hamilton,Ferrari,6,8,0.8,1.0
+Race_23_Qatar,Kimi Antonelli,Mercedes,7,6,0.9,1.0
+Race_23_Qatar,Alexander Albon,Williams,8,4,0.85,1.0
+Race_23_Qatar,Nico Hulkenberg,Audi,9,2,0.78,1.0
+Race_23_Qatar,Esteban Ocon,Haas,10,1,0.75,1.0
+Race_23_Qatar,Fernando Alonso,Aston Martin,11,0,0.74,1.0
+Race_23_Qatar,Lance Stroll,Aston Martin,12,0,0.74,1.0
+Race_23_Qatar,Isack Hadjar,RB,13,0,0.72,1.0
+Race_23_Qatar,Liam Lawson,RB,14,0,0.7,1.0
+Race_23_Qatar,Pierre Gasly,Alpine,15,0,0.7,1.0
+Race_23_Qatar,Carlos Sainz,Williams,16,0,0.65,1.0
+Race_23_Qatar,Gabriel Bortoleto,Kick Sauber,17,0,0.68,1.0
+Race_23_Qatar,Yuki Tsunoda,RedBull,18,0,0.6,1.0
+Race_23_Qatar,Oliver Bearman,Haas,19,0,0.58,1.0
+Race_23_Qatar,Franco Colapinto,Alpine,20,0,0.5,1.0
+Race_23_Qatar,Jack Doohan,Alpine,21,0,0.5,1.0
+
+
+Race_24_Abu Dhabi,Oscar Piastri,McLaren,1,25,1.22,1.1
+Race_24_Abu Dhabi,Lando Norris,McLaren,2,18,1.2,1.08
+Race_24_Abu Dhabi,Max Verstappen,Red Bull,3,15,1.0,1.05
+Race_24_Abu Dhabi,George Russell,Mercedes,4,12,1.05,1.0
+Race_24_Abu Dhabi,Charles Leclerc,Ferrari,5,10,0.95,1.0
+Race_24_Abu Dhabi,Lewis Hamilton,Ferrari,6,8,0.8,1.0
+Race_24_Abu Dhabi,Kimi Antonelli,Mercedes,7,6,0.9,1.0
+Race_24_Abu Dhabi,Alexander Albon,Williams,8,4,0.85,1.0
+Race_24_Abu Dhabi,Nico Hulkenberg,Audi,9,2,0.78,1.0
+Race_24_Abu Dhabi,Esteban Ocon,Haas,10,1,0.75,1.0
+Race_24_Abu Dhabi,Fernando Alonso,Aston Martin,11,0,0.74,1.0
+Race_24_Abu Dhabi,Lance Stroll,Aston Martin,12,0,0.74,1.0
+Race_24_Abu Dhabi,Isack Hadjar,RB,13,0,0.72,1.0
+Race_24_Abu Dhabi,Pierre Gasly,Alpine,14,0,0.7,1.0
+Race_24_Abu Dhabi,Liam Lawson,RB,15,0,0.7,1.0
+Race_24_Abu Dhabi,Carlos Sainz,Williams,16,0,0.65,1.0
+Race_24_Abu Dhabi,Gabriel Bortoleto,Kick Sauber,17,0,0.68,1.0
+Race_24_Abu Dhabi,Yuki Tsunoda,RedBull,18,0,0.6,1.0
+Race_24_Abu Dhabi,Oliver Bearman,Haas,19,0,0.58,1.0
+Race_24_Abu Dhabi,Franco Colapinto,Alpine,20,0,0.5,1.0
+Race_24_Abu Dhabi,Jack Doohan,Alpine,21,0,0.5,1.0
